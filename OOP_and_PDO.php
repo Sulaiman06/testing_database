@@ -1,10 +1,10 @@
 <?php
 
 class OOP_and_PDO {
-    protected $host = 'localhost';
-    protected $dbname = 'test';
-    protected $username = 'root';
-    protected $password = '';
+    protected $host = 'sql6.freemysqlhosting.net';
+    protected $dbname = 'sql6632644';
+    protected $username = 'sql6632644';
+    protected $password = 'Please wait';
 
     public function __construct() {
         try {
