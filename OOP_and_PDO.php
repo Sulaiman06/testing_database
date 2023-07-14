@@ -1,7 +1,10 @@
 <?php
 
 class OOP_and_PDO {
-    protected $host = 'localhost', $dbname = 'test', $username = 'root', $password = '';
+    protected $host = 'localhost';
+    protected $dbname = 'test';
+    protected $username = 'root';
+    protected $password = '';
 
     public function __construct() {
         try {
